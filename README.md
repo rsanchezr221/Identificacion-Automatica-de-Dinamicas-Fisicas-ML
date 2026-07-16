@@ -14,8 +14,6 @@ Los fenómenos considerados son:
 - Movimiento uniformemente acelerado.
 - Movimiento oscilatorio.
 
----
-
-# Objetivo
+## Objetivo
 
 Desarrollar un modelo capaz de identificar automáticamente la dinámica física de una trayectoria utilizando características derivadas de la cinemática.
